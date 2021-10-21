@@ -30,8 +30,8 @@
                                                     </imageView>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Cy3-dY-CAk">
                                                         <rect key="frame" x="0.0" y="0.0" width="138" height="548"/>
-                                                        <state key="normal" title="Button"/>
-                                                        <buttonConfiguration key="configuration" style="plain" title="Hard"/>
+                                                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                                        <state key="normal" title="Hard"/>
                                                         <connections>
                                                             <action selector="clickMe:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Ga6-Vm-kh9"/>
                                                         </connections>
@@ -57,8 +57,8 @@
                                                     </imageView>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5m7-dk-MaZ">
                                                         <rect key="frame" x="0.0" y="0.0" width="138" height="548"/>
-                                                        <state key="normal" title="Button"/>
-                                                        <buttonConfiguration key="configuration" style="plain" title="Medium"/>
+                                                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                                        <state key="normal" title="Medium"/>
                                                         <connections>
                                                             <action selector="clickMe:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gXM-mW-Gf8"/>
                                                         </connections>
@@ -84,8 +84,8 @@
                                                     </imageView>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rtO-g6-jzN">
                                                         <rect key="frame" x="0.0" y="0.0" width="138" height="548"/>
-                                                        <state key="normal" title="Button"/>
-                                                        <buttonConfiguration key="configuration" style="plain" title="Soft"/>
+                                                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                                        <state key="normal" title="Soft"/>
                                                         <connections>
                                                             <action selector="clickMe:" destination="BYZ-38-t0r" eventType="touchUpInside" id="RyT-bR-y9u"/>
                                                         </connections>
