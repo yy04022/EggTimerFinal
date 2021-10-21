@@ -16,6 +16,9 @@
 		3CF211042720CD4D00D6C1D6 /* EggTimerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF211032720CD4D00D6C1D6 /* EggTimerTests.swift */; };
 		3CF2110E2720CD4D00D6C1D6 /* EggTimerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF2110D2720CD4D00D6C1D6 /* EggTimerUITests.swift */; };
 		3CF211102720CD4D00D6C1D6 /* EggTimerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF2110F2720CD4D00D6C1D6 /* EggTimerUITestsLaunchTests.swift */; };
+		3CF2111F2720DDF600D6C1D6 /* hard.png in Resources */ = {isa = PBXBuildFile; fileRef = 3CF2111C2720DDF600D6C1D6 /* hard.png */; };
+		3CF211202720DDF600D6C1D6 /* medium_egg.png in Resources */ = {isa = PBXBuildFile; fileRef = 3CF2111D2720DDF600D6C1D6 /* medium_egg.png */; };
+		3CF211212720DDF600D6C1D6 /* soft_egg.png in Resources */ = {isa = PBXBuildFile; fileRef = 3CF2111E2720DDF600D6C1D6 /* soft_egg.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		3CF211092720CD4D00D6C1D6 /* EggTimerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EggTimerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CF2110D2720CD4D00D6C1D6 /* EggTimerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EggTimerUITests.swift; sourceTree = "<group>"; };
 		3CF2110F2720CD4D00D6C1D6 /* EggTimerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EggTimerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3CF2111C2720DDF600D6C1D6 /* hard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = hard.png; path = ../../../../../../Downloads/hard.png; sourceTree = "<group>"; };
+		3CF2111D2720DDF600D6C1D6 /* medium_egg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = medium_egg.png; path = ../../../../../../Downloads/medium_egg.png; sourceTree = "<group>"; };
+		3CF2111E2720DDF600D6C1D6 /* soft_egg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = soft_egg.png; path = ../../../../../../Downloads/soft_egg.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +110,9 @@
 				3CF210F02720CD4600D6C1D6 /* ViewController.swift */,
 				3CF210F22720CD4600D6C1D6 /* Main.storyboard */,
 				3CF210F52720CD4C00D6C1D6 /* Assets.xcassets */,
+				3CF2111C2720DDF600D6C1D6 /* hard.png */,
+				3CF2111D2720DDF600D6C1D6 /* medium_egg.png */,
+				3CF2111E2720DDF600D6C1D6 /* soft_egg.png */,
 				3CF210F72720CD4C00D6C1D6 /* LaunchScreen.storyboard */,
 				3CF210FA2720CD4C00D6C1D6 /* Info.plist */,
 			);
@@ -233,7 +242,10 @@
 			files = (
 				3CF210F92720CD4C00D6C1D6 /* LaunchScreen.storyboard in Resources */,
 				3CF210F62720CD4C00D6C1D6 /* Assets.xcassets in Resources */,
+				3CF211202720DDF600D6C1D6 /* medium_egg.png in Resources */,
+				3CF2111F2720DDF600D6C1D6 /* hard.png in Resources */,
 				3CF210F42720CD4600D6C1D6 /* Main.storyboard in Resources */,
+				3CF211212720DDF600D6C1D6 /* soft_egg.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
